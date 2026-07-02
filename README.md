@@ -1,5 +1,5 @@
 # 🧿 About Me🪽:
-⚙️ Building AI products, developer tools, and automation systems.<br><br>👯 Looking to collaborate with developers, founders, and open-source contributors.<br><br>🤝 Seeking guidance on product scaling, startup growth, and production AI infrastructure.<br><br>🌱 Learning Agentic AI, Distributed Systems, MLOps, N8N, and AWS.<br><br>💬 Ask me about AI, Full Stack Development, SaaS, APIs, Automation, and Software Engineering.<br><br>⚡ Mission: Build software that saves people time and creates real business value.
+⚙️ Building AI products, developer tools, and automation systems.<br><br>🤝 Looking to collaborate with developers, founders, and open-source contributors.<br><br>🌱 Seeking guidance on product scaling, startup growth, and production AI infrastructure.<br><br>📈 Learning Agentic AI, Distributed Systems, MLOps, N8N, and AWS.<br><br>💬 Ask me about AI, Full Stack Development, SaaS, APIs, Automation, and Software Engineering.<br><br>🔥 Mission: Build software that saves people time and creates real business value.
 
 
 ## 🌐 Socials:
