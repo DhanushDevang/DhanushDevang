@@ -115,7 +115,7 @@ const dhanush = {
 
 ## 🤝 Connect
 
-[![](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0a2a3a)](https://github.com/DhanushDevanga)
+[![](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0a2a3a)](https://github.com/DhanushDevang)
 [![](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0a2a3a)](http://www.linkedin.com/in/dhanush-devanga-917677208)
 [![](https://img.shields.io/badge/Gmail-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0a2a3a)](mailto:Dhanush26kkrtrd@gmail.com)
 [![](https://img.shields.io/badge/Instagram-7dd3fc?style=for-the-badge&logo=instagram&logoColor=0a2a3a)](https://instagram.com/_daffy.duck.__)
