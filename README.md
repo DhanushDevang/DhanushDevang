@@ -94,22 +94,22 @@ const dhanush = {
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=DhanushDevanga&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/DhanushDevanga)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushDevanga&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8)](https://github.com/DhanushDevanga)
+[![](https://github-readme-stats.vercel.app/api?username=DhanushDevang&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/DhanushDevang)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushDevang&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8)](https://github.com/DhanushDevang)
 
-[![](https://streak-stats.demolab.com?user=DhanushDevanga&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd)](https://github.com/DhanushDevanga)
+[![](https://streak-stats.demolab.com?user=DhanushDevang&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd)](https://github.com/DhanushDevang)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=DhanushDevanga&theme=nord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/DhanushDevanga)
+[![](https://github-profile-trophy.vercel.app/?username=DhanushDevang&theme=nord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/DhanushDevang)
 
 ---
 
 ## 📈 Contribution Graph
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=DhanushDevanga&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a)](https://github.com/DhanushDevanga)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=DhanushDevang&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a)](https://github.com/DhanushDevang)
 
 ---
 
