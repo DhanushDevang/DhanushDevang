@@ -1,22 +1,127 @@
-# 🧿 About Me🪽:
-⚙️ Building AI products, developer tools, and automation systems.<br><br>🤝 Looking to collaborate with developers, founders, and open-source contributors.<br><br>🌱 Seeking guidance on product scaling, startup growth, and production AI infrastructure.<br><br>📈 Learning Agentic AI, Distributed Systems, MLOps, N8N, and AWS.<br><br>💬 Ask me about AI, Full Stack Development, SaaS, APIs, Automation, and Software Engineering.<br><br>🔥 Mission: Build software that saves people time and creates real business value.
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Dhanush%20Devanga&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Automation%20Engineer&descAlignY=58&descSize=17&descColor=bae6fd)](https://github.com/DhanushDevanga)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Building+AI+products%2C+dev+tools+%26+automation;Patent+holder+%E2%80%94+AI+Vehicle+Health+Monitoring;Full+Stack+%7C+AI+Automation+%7C+Backend+Systems;Final-year+CSE+%40+Dayananda+Sagar+University)](https://readme-typing-svg.demolab.com)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_daffy.duck.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dhanush-devanga-917677208) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dhanush26kkrtrd@gmail.com) 
+[![](https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20COLLABORATE-Developers%20%C2%B7%20Founders%20%C2%B7%20OSS-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347)](https://github.com/DhanushDevanga)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DhanushDevang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DhanushDevang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DhanushDevang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DhanushDevang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![](https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/DhanushDevanga)
+[![](https://img.shields.io/badge/github%20followers-0a2a3a?style=flat-square&logo=github&logoColor=7dd3fc&labelColor=0a2a3a)](https://github.com/DhanushDevanga?tab=followers)
+[![](https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](http://www.linkedin.com/in/dhanush-devanga-917677208)
+[![](https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc)](mailto:Dhanush26kkrtrd@gmail.com)
+[![](https://img.shields.io/badge/Instagram-0a2a3a?style=for-the-badge&logo=instagram&logoColor=7dd3fc)](https://instagram.com/_daffy.duck.__)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧑‍💻 Who I Am
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380">
+
+```js
+const dhanush = {
+  title:    "Software Engineer · Backend Engineer · AI Automation Engineer",
+  stack:    {
+    languages: ["C", "C++", "Java", "Python", "TypeScript", "JavaScript"],
+    frontend:  ["React", "Next.js", "Bootstrap", "WebGL", "Tailwind CSS", "Framer Motion"],
+    backend:   ["Node.js", "Express.js", "FastAPI", "Django", ".NET", "Socket.io"],
+    cloud:     ["AWS", "Azure", "Google Cloud", "Vercel", "Netlify", "Render", "Firebase"],
+    db:        ["MySQL", "MongoDB", "PostgreSQL", "Redis", "Supabase"],
+    aiAutomation: ["Agentic AI", "N8N", "MLOps", "Distributed Systems (learning)"],
+  },
+  patent:   "AI-Powered Vehicle Health Monitoring — App No. 202641048002",
+  status:   "Final-year B.Tech CSE @ Dayananda Sagar University, Bengaluru · Graduating 2026",
+  mission:  "Build software that saves people time and creates real business value.",
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website — *Production Personal Site*
+
+> Built solo · React 19 + WebGL fluid-sim hero · Deployed on Vercel
+
+| Layer        | Technology                                                                 |
+| ------------ | --------------------------------------------------------------------------- |
+| **Frontend** | React 19 · Vite · TypeScript · Tailwind CSS v4 · Framer Motion              |
+| **Graphics** | Custom WebGL Navier-Stokes fluid simulation for the hero section           |
+| **Content**  | Patent, project showcase, certifications, resume — all integrated live      |
+| **Deploy**   | Vercel, via GitHub CI                                                       |
+
+📂 **Code →** [github.com/DhanushDevanga](https://github.com/DhanushDevanga)
+
+---
+
+### 💬 WhatsApp Clone — *Real-Time Messaging App*
+
+> Privacy-focused · 12+ build phases · Hardened for production use
+
+| Layer               | Technology                                                          |
+| ------------------- | --------------------------------------------------------------------- |
+| **Frontend**        | React · TypeScript                                                    |
+| **Backend**         | Node.js · Express · Socket.io (real-time) · Drizzle ORM               |
+| **Realtime/Media**  | LiveKit (WebRTC)                                                       |
+| **Database**        | PostgreSQL (Neon)                                                      |
+| **Security**        | Helmet.js · rate limiting · account lockout · reCAPTCHA · JWT versioning with session invalidation |
+| **Quality**         | 130+ test case custom API testing tool                                |
+
+📂 **Code →** [github.com/DhanushDevang/whatsapp-clone](https://github.com/DhanushDevang/whatsapp-clone)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![](https://skillicons.dev/icons?i=c,cpp,java,py,ts,js&theme=dark)
+
+### Frontend
+![](https://skillicons.dev/icons?i=react,nextjs,html,bootstrap,figma&theme=dark)
+
+### Backend & Infra
+![](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet,git,linux&theme=dark)
+
+### Cloud & Deployment
+![](https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,firebase&theme=dark)
+
+### AI, Data & Databases
+![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,pytorch,tensorflow,opencv&theme=dark)
+[![](https://img.shields.io/badge/-N8N-0a2a3a?style=for-the-badge&logo=n8n&logoColor=7dd3fc)](https://n8n.io)
+
+### Dev Tools & Design
+![](https://skillicons.dev/icons?i=vscode,figma,githubactions&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=DhanushDevanga&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true)](https://github.com/DhanushDevanga)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushDevanga&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=bae6fd&bg_color=0d1117&hide_border=false&langs_count=8)](https://github.com/DhanushDevanga)
+
+[![](https://streak-stats.demolab.com?user=DhanushDevanga&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd)](https://github.com/DhanushDevanga)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![](https://github-profile-trophy.vercel.app/?username=DhanushDevanga&theme=nord&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/DhanushDevanga)
+
+---
+
+## 📈 Contribution Graph
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=DhanushDevanga&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a)](https://github.com/DhanushDevanga)
+
+---
+
+## 🤝 Connect
+
+[![](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=0a2a3a)](https://github.com/DhanushDevanga)
+[![](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0a2a3a)](http://www.linkedin.com/in/dhanush-devanga-917677208)
+[![](https://img.shields.io/badge/Gmail-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0a2a3a)](mailto:Dhanush26kkrtrd@gmail.com)
+[![](https://img.shields.io/badge/Instagram-7dd3fc?style=for-the-badge&logo=instagram&logoColor=0a2a3a)](https://instagram.com/_daffy.duck.__)
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/DhanushDevanga)
+
+[![](https://komarev.com/ghpvc/?username=DhanushDevanga&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a)](https://github.com/DhanushDevanga)
+
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn)](https://github.com/DhanushDevanga)
